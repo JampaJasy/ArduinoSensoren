@@ -1,6 +1,4 @@
-/* How to use a Force sensitive resistor to fade an LED with Arduino
-   More info: http://www.ardumotive.com/how-to-use-a-force-sensitive-resistor-en.html
-   Dev: Michalis Vasilakis // Date: 22/9/2015 // www.ardumotive.com  */
+
  
 const int sensorPin = A0;
 int value;
